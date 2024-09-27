@@ -1,6 +1,6 @@
 ## Node With Fastify API
 
-### Instalar dependêndias
+### Instalar dependências
 
 - Node maior >= 18.0.0
 - Instalar o pnpm
